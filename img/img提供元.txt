@@ -1,0 +1,8 @@
+画像の提供元
+link.png: https://icooon-mono.com/10968-%e3%83%aa%e3%83%b3%e3%82%af%e3%81%ae%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b31/
+close_folder.png: https://icooon-mono.com/11376-%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%81%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b32/
+open_folder.png: https://icooon-mono.com/12089-%e7%b7%9a%e7%94%bb%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3-3/
+add_folder.png: https://icooon-mono.com/15430-%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b315/
+remove_folder.png: https://icooon-mono.com/15431-%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e3%81%ae%e7%84%a1%e6%96%99%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b316/
+plus.png: https://icooon-mono.com/00105-%e3%83%97%e3%83%a9%e3%82%b9%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%90/
+minus.png: https://icooon-mono.com/00106-%e3%83%9e%e3%82%a4%e3%83%8a%e3%82%b9%e3%81%ae%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%90/

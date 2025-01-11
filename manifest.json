@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "LinkTree",
+  "description": "JSON形式で保持したブックマークをツリー形式で表示できるChrome拡張",
+  "version": "1.0",
+  "options_page": "settings.html",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "img/icon.png"
+  },
+  "permissions": ["storage"]
+}

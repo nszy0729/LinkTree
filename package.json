@@ -1,0 +1,35 @@
+{
+  "name": "linktree",
+  "version": "1.0.0",
+  "main": "./src/main.tsx",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.prd.config.js --mode=production",
+    "watch": "webpack -w",
+    "serve": "webpack serve --mode=development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chrome": "^0.0.281",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  },
+  "dependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "css-loader": "^7.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.97.1"
+  },
+  "volta": {
+    "node": "22.12.0"
+  }
+}
