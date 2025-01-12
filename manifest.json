@@ -5,8 +5,12 @@
   "version": "1.0",
   "options_page": "settings.html",
   "action": {
-    "default_popup": "index.html",
-    "default_icon": "img/icon.png"
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "img/icon/icon16.png",
+    "48": "img/icon/icon48.png",
+    "128": "img/icon/icon128.png"
   },
   "permissions": ["storage"]
 }
