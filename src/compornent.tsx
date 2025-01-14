@@ -53,7 +53,7 @@ const Link: React.FC<{ link: Link }> = (props) => {
 }
 
 const Root: React.FC<{ bookmarks: Bookmarks }> = (props) => {
-  const renders = props.bookmarks
+  const renders = props.bookmarks.length === 0 ? "拡張機能のオプションからJSONを設定してください" : props.bookmarks
     .toSorted((a) => a.type === 'folder' ? 1 : -1)
     .map((p) => p.type === 'folder' ? <Folder folder={p}></Folder> : <Link link={p}></Link>);
   return renders;
