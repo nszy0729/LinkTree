@@ -15,5 +15,6 @@ export type Folder = {
 export type Settings = {
   settings: {
     json: string;
+    width: number;
   }
 }
