@@ -9,16 +9,16 @@ const mainIconStyle = {
 
 export const LinkIcon: React.FC<{}> = () => {
   return (
-    <img src="../img/link.png" title="Alt + クリック：直下の全リンクを別ダブで表示" style={mainIconStyle} />
+    <img src="../img/link.png" title="Alt + クリック：直下の全リンクを別タブで表示" style={mainIconStyle} />
   );
 }
 export const CloseFolderIcon: React.FC<{}> = () => {
   return (
-    <img src="../img/close_folder.png" title="Alt + クリック：直下の全リンクを別ダブで表示" style={mainIconStyle} />
+    <img src="../img/close_folder.png" title="Alt + クリック：直下の全リンクを別タブで表示" style={mainIconStyle} />
   );
 }
 export const OpenFolderIcon: React.FC<{}> = () => {
   return (
-    <img src="../img/open_folder.png" title="Alt + クリック：直下の全リンクを別ダブで表示" style={mainIconStyle} />
+    <img src="../img/open_folder.png" title="Alt + クリック：直下の全リンクを別タブで表示" style={mainIconStyle} />
   );
 }
